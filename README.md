@@ -8,7 +8,7 @@ Explore all the GroundStudio products at [GroundStudio.ro](https://groundstudio.
 
 Description
 -------------------
-8MB SPI flash module based on W25Q64 chip.
+64Mb/8MB SPI flash module based on W25Q64 chip.
 
 Contents
 -------------------
