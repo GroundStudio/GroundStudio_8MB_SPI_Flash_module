@@ -31,3 +31,10 @@ This is released under the [Attribution-ShareAlike 4.0 International (CC BY-SA 4
 **You are welcome to use this for commercial purposes.**
 
 Please consider contributing back to this project or others to help the open-source hardware community continue to thrive and grow! 
+
+Certifications:
+
+[Open Source Hardware Association](https://certification.oshwa.org/ro000020.html)   
+   
+[![certification-mark-RO000020-wide](https://github.com/GroundStudio/GroundStudio_8MB_SPI_Flash_module/assets/77836107/901d9654-228e-487e-a274-519e8129bf71)
+](https://certification.oshwa.org/ro000020.html)
